@@ -1,0 +1,73 @@
+{
+    "1554468633": {
+        "00:00:00:00:00:00:00:01": [
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s1-eth1",
+                "port": 1,
+                "time": "2019-04-05 20:50:33.362780"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s1-eth2",
+                "port": 2,
+                "time": "2019-04-05 20:50:33.362804"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s1-eth3",
+                "port": 3,
+                "time": "2019-04-05 20:50:33.362812"
+            }
+        ],
+        "00:00:00:00:00:00:00:02": [
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s2-eth1",
+                "port": 1,
+                "time": "2019-04-05 20:50:33.362898"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s2-eth2",
+                "port": 2,
+                "time": "2019-04-05 20:50:33.362906"
+            }
+        ],
+        "00:00:00:00:00:00:00:03": [
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s3-eth4",
+                "port": 4,
+                "time": "2019-04-05 20:50:33.362859"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s3-eth1",
+                "port": 1,
+                "time": "2019-04-05 20:50:33.362872"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s3-eth2",
+                "port": 2,
+                "time": "2019-04-05 20:50:33.362879"
+            },
+            {
+                "Thputbits_rx": 0,
+                "Thputbits_tx": 0,
+                "name": "s3-eth3",
+                "port": 3,
+                "time": "2019-04-05 20:50:33.362887"
+            }
+        ]
+    }
+}
