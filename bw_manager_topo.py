@@ -1,7 +1,8 @@
 #!/usr/bin/python
 
 """
-This example shows a Mininet topology simulating avionic cookpit network.
+This example shows a Mininet topology simulating 
+avionic cookpit network.
 """
 
 from mininet.net import Mininet
