@@ -1,8 +1,7 @@
 #!/usr/bin/python
 
 """
-This example shows how to create an empty Mininet object
-(without a topology object) and add nodes to it manually.
+This example shows a Mininet topology simulating avionic cookpit network.
 """
 
 from mininet.net import Mininet
